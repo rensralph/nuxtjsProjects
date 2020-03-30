@@ -1,0 +1,17 @@
+{
+  "name": "samplePage",
+  "version": "1.0.0",
+  "description": "5 youtube channel page",
+  "author": "rensralph",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
